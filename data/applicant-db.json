@@ -1,0 +1,63 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "userName": "Dana Schwartz",
+    "bankName": "Bank of India",
+    "panNumber": "AAICA4667N",
+    "address": "Door No 10, 2nd Main Road Adyar Chennai, Tamil Nadu 600020",
+    "dob": "1994-11-25",
+    "email": "danaschwartz@gmail.com",
+    "phone": "999-010-0001",
+    "password": "Dana@1994"
+
+  },
+  {
+    "userId": 2,
+    "id": 2,
+    "userName": "Tatum Sosa",
+    "bankName": "Andhra Bank",
+    "panNumber": "AABCA7375C",
+    "address": "Plot No 55, Jubilee Hills Near Apollo Hospital Hyderabad, Telangana 500033",
+    "dob": "1992-07-22",
+    "email": "tatumsosa@gmail.com",
+    "phone": "999-010-0002",
+    "password": "Tatum@1992"
+  },
+   {
+    "userId": 3,
+    "id": 3,
+    "userName": "Angie Dominguez",
+    "bankName": "Axis Bank Limited",
+    "panNumber": "AAAJA1351N",
+    "address": "Flat 101, Prestige Heights 5th Cross, Indiranagar Bengaluru, Karnataka 56003",
+    "dob": "1997-02-12",
+    "email": "angiedominguez@gmail.com",
+    "phone": "999-010-0003",
+    "password": "Angie@1997"
+  },
+   {
+    "userId": 4,
+    "id": 4,
+    "userName": "Emir Chase",
+    "bankName": "Canara Bank",
+    "panNumber": "AAMFA8921A",
+    "address": "402, Sai Apartment, 4th Floor Opposite Metro Station, MG Road Chembur, Mumbai, Maharashtra 400071",
+    "dob": "1983-04-15",
+    "email": "emirchase@gmail.com",
+    "phone": "555-010-0199",
+    "password": "Emir@1983"
+  },
+   {
+    "userId": 5,
+    "id": 5,
+    "userName": "Jaxen Gordon",
+    "bankName": "HDFC",
+    "panNumber": "AACCA8464F",
+    "address": "H.No 123, Block-C, Sector 14 Near City Park, Dwarka New Delhi, Delhi 110075",
+    "dob": "1989-04-130",
+    "email": "jaxengordon@gmail.com",
+    "phone": "555-010-0150",
+    "password": "Jaxen@1989"
+  }
+]

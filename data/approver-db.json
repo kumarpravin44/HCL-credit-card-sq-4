@@ -1,0 +1,38 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "userName": "Kabir Thomas",
+    "bankName": "Bank of India",
+    "panNumber": "AAICA4667N",
+    "address": "Door No 10, 2nd Main Road Adyar Chennai, Tamil Nadu 600020",
+    "dob": "1984-10-20",
+    "email": "danaschwartz@gmail.com",
+    "phone": "999-010-0001",
+    "password": "Kabir@1984"
+
+  },
+  {
+    "userId": 2,
+    "id": 2,
+    "userName": "Sonny Giles",
+    "bankName": "Andhra Bank",
+    "panNumber": "AABCA7375C",
+    "address": "Plot No 55, Jubilee Hills Near Apollo Hospital Hyderabad, Telangana 500033",
+    "dob": "1982-07-20",
+    "email": "tatumsosa@gmail.com",
+    "phone": "999-010-0002",
+    "password": "Sonny@1982"
+  },
+   {
+    "userId": 3,
+    "id": 3,
+    "userName": "Karla Best",
+    "bankName": "Axis Bank Limited",
+    "panNumber": "AAAJA1351N",
+    "address": "Flat 101, Prestige Heights 5th Cross, Indiranagar Bengaluru, Karnataka 56003",
+    "dob": "1987-02-22",
+    "email": "angiedominguez@gmail.com",
+    "phone": "Karla@1987"
+  }
+]
